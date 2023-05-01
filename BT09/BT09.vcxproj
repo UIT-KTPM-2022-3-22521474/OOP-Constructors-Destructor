@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="COxyLine.cpp" />
+    <ClCompile Include="CLine.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CLine.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
